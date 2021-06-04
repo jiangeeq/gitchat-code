@@ -70,8 +70,8 @@ limitations under the License.
     <guava.version>18.0</guava.version>
     <guava-old.version>11.0.2</guava-old.version>
     <hadoop2.version>2.4.0</hadoop2.version>
-    <httpclient.version>4.3.5</httpclient.version>
-    <httpclient-old.version>4.2.1</httpclient-old.version>
+    <httpclient.version>4.5.13</httpclient.version>
+    <httpclient-old.version>4.5.13</httpclient-old.version>
     <irclib.version>1.10</irclib.version>
     <jersey.version>1.8</jersey.version>
     <jetty.version>6.1.26</jetty.version>
