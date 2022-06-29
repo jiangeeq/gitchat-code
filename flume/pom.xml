@@ -84,7 +84,7 @@ limitations under the License.
     <log4j-extras.version>1.1</log4j-extras.version>
     <log4j-log4j.version>1.2.17</log4j-log4j.version>
     <mapdb.version>0.9.9</mapdb.version>
-    <mina.version>2.0.4</mina.version>
+    <mina.version>2.0.22</mina.version>
     <mockito.version>1.9.0</mockito.version>
     <mortbay-jetty-servlet-api.version>2.5-20110124</mortbay-jetty-servlet-api.version>
     <mvn-antrun-plugin.version>1.7</mvn-antrun-plugin.version>
